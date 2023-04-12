@@ -1,11 +1,10 @@
 # Hotels_EDA
 SQL + POWER BI
 
-Hello! 
-In this repository, the idea is to analyze a hotel chain throughout the years 2018, 2019 and 2020 with the aim of answering some questions for the directory.
+En este repositorio la idea es analizar una cadena hotelera a lo largo de los años 2018, 2019 y 2020 con el objetivo de responder algunas preguntas.
 
-Firstly, we will check whether revenues have grown in these years, then we will analyze the impact on hotel parking and finally we will try to find trends that help us to improve business.
+En primer lugar, comprobaremos si los ingresos han crecido en estos años, luego analizaremos el impacto en el aparcamiento del hotel y finalmente intentaremos encontrar tendencias que nos ayuden a mejorar el negocio.
 
-The first question is worked through a query in sql while the rest we will see visually on our dashboard.
+La primera pregunta se trabaja a través de una consulta en SQL mientras que el resto lo veremos visualmente en nuestro tablero.
 
-Regarding to parkings, we can see that there is no strong evidence that it is necessary to increase the spaces, perhaps the cost of doing so will end up being negative for the hotels. Then we can see that "City hotel" category is relatively more profitable and requires fewer parking spaces. At the same time, they charge more expensive on average per night and also offer greater discounts to their clients
+En cuanto a los estacionamientos, podemos ver que no hay evidencia fuerte de que sea necesario aumentar los espacios, quizás el costo de hacerlo termine siendo negativo para los hoteles. Entonces podemos ver que la categoría "Hotel de ciudad" es relativamente más rentable y requiere menos plazas de aparcamiento. Al mismo tiempo, cobran más caro en promedio por noche y también ofrecen mayores descuentos a sus clientes.
